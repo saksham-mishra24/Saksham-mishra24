@@ -1,77 +1,150 @@
-
-
-<h1 align="center">Hello there 👋, I'm Saksham Mishra</h1>
-<h3 align="center">Data Analyst | Business Intelligence | ETL | Cloud Computing</h3>
+<h1 align="center">Hi 👋, I'm Saksham Mishra</h1>
+<h3 align="center">Data Science & Analytics Consultant | Gen AI | Cloud | Turning Data into Business Impact</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saksham-mishra24&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-## 👋 Welcome To My GitHub Page
+---
 
-### 💫 About Me:
-- 👨‍💻 Data Analyst with 3+ years of experience in data analysis, ETL processes, and business intelligence solutions.
-- 🚀 Skilled in Python, SQL, Power BI, Tableau, and Azure (ADF, Databricks, ADLS Gen2) to build data-driven solutions.
-- 📊 Expertise in automating reporting, optimizing data pipelines, and providing actionable insights across industries like automotive, BFSI, product retail, and supply chain.
-- 🤝 Looking to collaborate on data analytics and cloud-based data engineering projects.
-- ✍️ I share data-related insights and tutorials on [LinkedIn](https://www.linkedin.com) and [Medium](https://medium.com).
+## 🚀 About Me
 
-### 🚀 Skills and Tools:
-#### **Programming & Data Analysis:**
-- Python (Pandas, NumPy), SQL, Advanced Excel, VBA, DAX, Power Query
-#### **Data Engineering & Cloud:**
-- ETL (Extract, Transform, Load), Azure Data Factory (ADF), Databricks, ADLS Gen2
-#### **Business Intelligence & Visualization:**
-- Power BI, Tableau, Google Analytics
-#### **Other Technologies:**
-- GitHub, VS Code, JIRA, Web Scraping, API Fundamentals, PySpark, NoSQL, Machine Learning
+💡 I’m a **Data Science & Analytics Consultant with 4+ years of experience** building scalable, insight-driven solutions across **Retail, BFSI, E-commerce, and EdTech**.
 
-<p align="left">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-</p>
+I specialize in:
+- 🔍 Turning complex data into **actionable insights**
+- ⚙️ Designing **end-to-end data pipelines & ML solutions**
+- 📊 Delivering **business impact through analytics & BI**
+- 🤖 Exploring **Generative AI & intelligent automation**
 
-### 🏆 Projects:
-- **[Hospitality Revenue Analytics](#)** | *Python, SQL, Power BI, ADF*
-  - Developed an ETL pipeline using Azure Data Factory for data ingestion and transformation.
-  - Created Power BI dashboards to provide insights into revenue trends in the hospitality industry.
-
-### 📜 Certifications:
-- Azure Data Factory and Databricks Spark for Data Engineers *(2024)*
-- Web Scraping and API Fundamentals in Python *(2024)*
-- Google Business Intelligence Professional Certificate *(2023)*
-- Google Advanced Data Analytics Professional Certificate *(2023)*
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saksham-mishra24&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saksham-mishra24&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham-mishra24&" alt="GitHub Streak" />
-</p>
-
-### 🌐 Connect with Me:
-- [LinkedIn](https://www.linkedin.com)
-- [Medium](https://medium.com)
-- [GitHub](https://github.com/saksham-mishra24)
+📈 **Impact Snapshot:**
+- 🚀 Reduced manual effort by **20%** via automation
+- ⚡ Improved SQL performance by **30%**
+- 📊 Increased reporting accuracy by **15%**
+- 📉 Enabled faster decision-making with optimized data pipelines
 
 ---
+
+## 🧠 Core Expertise
+
+### 🔬 Data Science & Machine Learning
+- Predictive Modeling, Machine Learning, NLP  
+- Time Series Analysis, A/B Testing  
+- Hypothesis Testing, Statistical Analysis  
+
+### ⚙️ Data Engineering
+- ETL Pipelines, Data Modeling  
+- Data Transformation & Automation  
+- PySpark, Data Cleaning Systems  
+
+### 📊 Business Intelligence
+- Power BI, Tableau  
+- KPI Reporting & Dashboarding  
+- Stakeholder-Focused Insights  
+
+### ☁️ Cloud & Big Data
+- **Azure**: ADF, Databricks, ADLS Gen2  
+- **AWS**: Athena, Redshift  
+- **GCP**: BigQuery, Vertex AI  
+
+### 💻 Tech Stack
+- Python (Pandas, NumPy, Scikit-learn)  
+- SQL (Advanced Optimization)  
+- Excel, VBA, DAX  
+
+---
+
+## 🏆 Featured Projects (Real-World Impact)
+
+### 🔹 1. End-to-End Revenue Analytics Platform
+**Tech:** Python | SQL | Power BI | Azure Data Factory  
+
+- Built a **scalable ETL pipeline** using ADF for automated data ingestion  
+- Transformed raw multi-source data into **analytics-ready datasets**  
+- Developed **interactive Power BI dashboards** for revenue tracking  
+- Enabled leadership to identify **revenue leakage & growth opportunities**
+
+👉 *Impact:* Improved reporting efficiency & decision-making speed  
+
+---
+
+### 🔹 2. SLA & Performance Optimization Analytics
+**Tech:** SQL | Python | Excel | Power BI  
+
+- Analyzed SLA adherence, AHT, and operational KPIs  
+- Identified **root causes of service delays** using data analysis  
+- Built performance dashboards to track real-time metrics  
+- Delivered actionable insights to improve service delivery  
+
+👉 *Impact:* Increased operational efficiency & proactive risk mitigation  
+
+---
+
+### 🔹 3. Data Pipeline Automation System
+**Tech:** Python | SQL | ETL | Automation  
+
+- Automated data extraction from **SAP, SFTP, and multiple formats (CSV, TXT)**  
+- Built scripts to reduce repetitive manual processing  
+- Ensured **data accuracy, validation, and consistency**  
+
+👉 *Impact:* Reduced manual effort by **20%**  
+
+---
+
+### 🔹 4. SQL Optimization & Reporting Accuracy Enhancement
+**Tech:** SQL | DAX | Power BI  
+
+- Optimized complex SQL queries for faster execution  
+- Improved data validation using DAX logic  
+- Enhanced reporting pipelines for higher accuracy  
+
+👉 *Impact:*  
+- ⚡ 30% faster queries  
+- 📊 15% increase in report accuracy  
+
+---
+
+### 🔹 5. Customer & Market Behavior Analytics
+**Tech:** Python | SQL | BI Tools  
+
+- Analyzed customer behavior & product performance  
+- Measured impact of product changes on engagement & retention  
+- Delivered insights for **data-driven business strategies**  
+
+👉 *Impact:* Improved customer-centric decision-making  
+
+---
+
+## 📜 Certifications
+
+- Google Advanced Data Analytics Professional Certificate  
+- Google Business Intelligence Professional Certificate  
+- Azure Data Factory & Databricks for Data Engineers  
+- Web Scraping & API Fundamentals (Python)  
+- HackerRank SQL (Advanced & Intermediate)  
+- ChatGPT for Data Analytics  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saksham-mishra24&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham-mishra24" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/analystsaksham  
+- 💻 GitHub: https://github.com/saksham-mishra24  
+- 🌐 Portfolio: https://saksham-mishra24.github.io/Saksham_portfolio  
+- ✍️ Medium: https://medium.com  
+
+---
+
+⭐ *“Transforming data into decisions, and decisions into impact.”*
